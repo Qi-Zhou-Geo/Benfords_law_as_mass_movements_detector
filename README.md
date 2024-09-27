@@ -15,7 +15,8 @@ Benfords_law_as_mass_movements_detector
 **Qi, Zhou**, Hui Tang, Jens M. Turowski, Jean Braun, Ci-Jian Yang, Michael Dietze, Sophie Lagarde, Ahmed
 Abdelwahab, and Fabian Walter. "Benford's law as debris flow detector in seismic signals." Journal of
 Geophysical Research: Earth Surface, 129, e2024JF007691.). <br>
-[Click here](https://doi.org/10.1029/2024JF007691) <br>
+[Click here for the manuscript](https://doi.org/10.1029/2024JF007691) <br>
+[Editor‘s Highlights](https://eos.org/editor-highlights/counting-from-one-to-nine-to-detect-debris-flows), Fewer than 2 per cent of papers are selected to be featured in this way.
 
 
 #### 2.2, Measuring bedload motion time at second resolution using Benford's law on acoustic data 
