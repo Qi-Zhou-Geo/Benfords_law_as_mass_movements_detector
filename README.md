@@ -5,6 +5,7 @@ This repository is for the paper **“Benford's law as debris flow detector in s
 ```bash
 Benfords_law_as_mass_movements_detector
 ├── DF_events
+├── fine_tuning
 ├── functions
 └── trained_model
 ```
@@ -25,9 +26,10 @@ Yang, Ci‐Jian, Jens M. Turowski, **Qi Zhou**, Ron Nativ, Hui Tang, Jui‐Ming 
 Science, no. 7 (2024): e2023EA003416. <br>
 [Click here](https://doi.org/10.1029/2023EA003416) <br>
 
-
-### 3, Zenodo Resources <br>
-[Click here to check the Zenodo resources](https://doi.org/10.5281/zenodo.13373477) <br>
+### 3, Fine-Tuning Scaling and Ruler Parameters <br>
+The source code will be released soon. <br>
+In the meantime, you can request it by contacting kshitij.kar@gfz-potsdam.de. <br>
+[example based on Illgraben 2017-2019 data](./fine_tuning/ILL12_summary_plot.png) 
 
 If you have any questions, <br>
 please feel free to email me, <br> 
