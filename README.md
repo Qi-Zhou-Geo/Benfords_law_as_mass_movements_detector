@@ -4,6 +4,7 @@ This repository is for the paper **“Benford's law as debris flow detector in s
 ### 1, Repository Structure <br>
 ```bash
 Benfords_law_as_mass_movements_detector
+├── Demo
 ├── DF_events
 ├── fine_tuning
 ├── functions
